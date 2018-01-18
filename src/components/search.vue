@@ -196,11 +196,11 @@ export default {
 .searchBy {
   padding: 10px;
   padding-left: 0;
-  .wrap{
-      flex-wrap: wrap;
+  .wrap {
+    flex-wrap: wrap;
   }
   & > p {
-      width:120px;
+    width: 120px;
     padding: 5px;
     font-weight: bold;
   }
@@ -220,8 +220,8 @@ export default {
     &:hover {
       border: 1px solid #e4393c;
     }
-    .clsName{
-        margin: 0 5px;
+    .clsName {
+      margin: 0 5px;
     }
   }
 }
